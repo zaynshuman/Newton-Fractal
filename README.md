@@ -6,6 +6,6 @@ A newton fractal for $f(z) = z^5 − 1$. Each colour represents the root that Ne
 
 <img width="607" alt="image" src="https://user-images.githubusercontent.com/65096232/183160611-b323112b-e2ca-40c7-b1bd-92e1bd73a109.png">
 
-We zoom into an interesting part of the Newton fractal given by $f(z) = z^5 − 1$. We will also change the colour scheme to depend on both the number of iterations required to fall below a certain tolerance as well as the target root. Here, we have an error tolerance of 0.1.
+We zoom into an interesting part of the Newton fractal given by $f(z) = z^5 − 1$. The fractal is coloured by the root reached and shaded by the rate of convergence/number of iterations required to fall below a tolerance level (0.1).
 
 <img width="618" alt="image" src="https://user-images.githubusercontent.com/65096232/183165312-6a88022b-184f-4a5a-adec-2bfa82e02835.png">
